@@ -3,9 +3,13 @@ Detecting deepfake videos based on Eye and Mouth features using CNN and LSTM mod
 
 # Table of Contents
 -[Introduction](#Introduction)
+
 -[Methodology](#Methodology)
+
 -[Data Preparation](#Data-Preparation)
+
 -[Feature Extraction with ResNext](#Feature-Extraction-with-ResNext)
+
 -[Results](#Results)
 
 ### Introduction
