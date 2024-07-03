@@ -32,7 +32,8 @@ Sequence Processing with LSTM
 Following feature extraction, the 2048-dimensional feature vectors are input into a single LSTM layer for sequence processing. The LSTM layer is configured with 2048 latent dimensions, augmented with a dropout probability of 0.4 to mitigate overfitting. This LSTM architecture is pivotal in analyzing the temporal dynamics and dependencies within the video sequences. By leveraging the LSTM’s ability to model sequential data, our model effectively captures the nuanced patterns indicative of deepfake or real videos.
 
 ### Results
-'''
+
+```
 The Celeb-DF dataset of 1800 videos(fake-900 , real-900) was split into train and test sets with 80-20 ratio
-'''
+```
 ![Screenshot 2024-07-02 133502](https://github.com/Rishitamamidipalli/DeepFake-Detection/assets/123208162/a184ebcc-ac15-4763-b9da-0acc8a25b25e)
